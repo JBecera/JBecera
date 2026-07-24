@@ -4,14 +4,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+projects+one+repo+at+a+time;Web+%7C+Backend+%7C+Mobile+%7C+Databases;Still+figuring+it+out" alt="Typing SVG" />
   </a>
-</div>
-<br/>
-<h1 align="center">Hey there, I'm Jian Brenz Becera 👋</h1>
-<p align="center">
   I like solving real world problems that matter by writing code.
-  <br/>
-  I build full-stack using Spring Boot and Kotlin on the back, React on the front.
-</p>
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/becerajian/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1A1B26" alt="LinkedIn" />
@@ -64,18 +58,6 @@
 </p>
 
 ---
-
-<h2 align="center">Let's Connect</h2>
-<p align="center">
-  Always happy to talk projects, web dev, or a good idea that deserves to exist.
-  <br />
-  <a href="mailto:jianbrenzcaridobecera@gmail.com"><strong>jianbrenzcaridobecera@gmail.com</strong></a>
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+projects+one+repo+at+a+time;Web+%7C+Backend+%7C+Mobile+%7C+Databases;Still+figuring+it+out" alt="Typing SVG" />
-  </a>
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Turning+coffee+into+commits+since+day+one;Build+fun+things.+Ship+them.+Repeat." alt="Tokyo Night animated typing message" />
 </p>
