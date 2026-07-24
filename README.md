@@ -55,8 +55,6 @@
 <p align="center">
   <img align="top" width="100%" src="https://ghstats.dev/api/card?username=JBecera&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night GitHub stats" /> <bbr/>
 </p>
-
----
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!;See+you+around." alt="Tokyo Night animated typing message" />
 </p>
