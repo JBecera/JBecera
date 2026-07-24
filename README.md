@@ -4,9 +4,9 @@
 <br/>
 <h1 align="center">Hey there, I'm Jian Brenz Becera 👋</h1>
 <p align="center">
-  I like solving real-world problems that matter by writing code
+  I like solving real-world problems that matter by writing code.
   <br/>
-  I build full-stack — Spring Boot and Kotlin on the back, React on the front
+  I build full-stack — Spring Boot and Kotlin on the back, React on the front.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/becerajian/">
