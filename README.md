@@ -6,7 +6,7 @@
   </a>
 </div>
 <p align="center">
-  I like solving real world problems that matter by writing code.
+  I like solving real world problems that matter by writing code.<br/><br/>
   <a href="https://www.linkedin.com/in/becerajian/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1A1B26" alt="LinkedIn" />
   </a>
@@ -54,7 +54,6 @@
 <h2 align="center">GitHub Snapshot</h2>
 <p align="center">
   <img align="top" width="49%" src="https://ghstats.dev/api/card?username=JBecera&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night GitHub stats" /> <bbr/>
-  <img align="top" width="49%" src="https://ghstats.dev/api/langs?username=JBecera&hide_border=true&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night language stats" />
 </p>
 
 ---
