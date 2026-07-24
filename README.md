@@ -4,9 +4,9 @@
 <br/>
 <h1 align="center">Hey there, I'm Jian Brenz Becera 👋</h1>
 <p align="center">
-  I turn "wouldn't it be cool if..." ideas into apps that actually run.
+  I like solving real-world problems that matter by writing code
   <br/>
-  Powered by Java, Spring Boot, ReactJS, Kotlin, PostgreSQL — and an unhealthy amount of coffee.
+  I build full-stack — Spring Boot and Kotlin on the back, React on the front
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/becerajian/">
@@ -27,17 +27,17 @@
       <h3>🛠️ Things I Love Making</h3>
       <ul>
         <li>Full-stack web apps with React, Node.js, Django, and Spring Boot</li>
-        <li>Android apps in Kotlin and Java that don't crash (usually)</li>
-        <li>Anything database-flavored — MySQL, PostgreSQL, SQLite, Supabase</li>
+        <li>Android apps in Kotlin and Java</li>
+        <li>Database— MySQL, PostgreSQL, SQLite, Supabase</li>
         <li>Projects built to actually work, not just survive the demo</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>🚀 Always Down For</h3>
+      <h3>🚀Open For</h3>
       <ul>
         <li>Internships and entry-level roles in software development</li>
-        <li>Teaming up with fellow student devs on cool builds</li>
-        <li>Picking the brains of people who've shipped more than me</li>
+        <li>Teaming up with fellow student devs</li>
+        <li>Picking the brains of people who've produced more than me</li>
         <li>Jumping into open-source and leaving it better than I found it</li>
       </ul>
     </td>
@@ -58,19 +58,12 @@
   <img align="top" width="49%" src="https://ghstats.dev/api/card?username=JBecera&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night GitHub stats" />
   <img align="top" width="49%" src="https://ghstats.dev/api/langs?username=JBecera&hide_border=true&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night language stats" />
 </p>
-<p align="center">
-  <img align="top" width="49%" src="https://ghstats.dev/api/sparkline?username=JBecera&hide_border=true&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night contribution sparkline" />
-  <img align="top" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JBecera&theme=tokyonight&hide_border=true" alt="JBecera's Tokyo Night GitHub streak" />
-</p>
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=JBecera&bg_color=1a1b26&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&title_color=7aa2f7&hide_border=true" alt="JBecera's Tokyo Night GitHub activity graph" />
-</p>
 
 ---
 
 <h2 align="center">Let's Connect</h2>
 <p align="center">
-  Got a project, a wild idea, or just want to talk code? My inbox is always open.
+  Always happy to talk projects, web dev, or a good idea that deserves to exist
   <br />
   <a href="mailto:jianbrenzcaridobecera@gmail.com"><strong>jianbrenzcaridobecera@gmail.com</strong></a>
 </p>
