@@ -48,17 +48,17 @@ Gmail
 ---
 <h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,django,flask,react,nextjs,nodejs,docker,gcp,git,github&perline=8&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Django, Flask, React, Next.js, Node.js, Docker, GCP, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,django,flask,react,nextjs,nodejs,docker,gcp,git,github&perline=8&theme=Dracula" alt="Python, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Django, Flask, React, Next.js, Node.js, Docker, GCP, Git, and GitHub" />
 </p>
 ---
 <h2 align="center">GitHub Snapshot</h2>
 <p align="center">
-  <img align="top" width="49%" src="https://ghstats.dev/api/card?username=JBecera&theme=catppuccin&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="JBecera's Catppuccin Mocha GitHub stats" />
-  <img align="top" width="49%" src="https://ghstats.dev/api/langs?username=JBecera&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha language stats" />
+  <img align="top" width="49%" src="https://ghstats.dev/api/card?username=JBecera&theme=Dracula&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="JBecera's Catppuccin Mocha GitHub stats" />
+  <img align="top" width="49%" src="https://ghstats.dev/api/langs?username=JBecera&theme=Dracula&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha language stats" />
 </p>
 <p align="center">
-  <img align="top" width="49%" src="https://ghstats.dev/api/sparkline?username=JBecera&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="JBecera's Catppuccin Mocha contribution sparkline" />
-  <img align="top" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JBecera&theme=catppuccin-mocha&hide_border=true" alt="JBecera's Catppuccin Mocha GitHub streak" />
+  <img align="top" width="49%" src="https://ghstats.dev/api/sparkline?username=JBecera&theme=Dracula&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="JBecera's Catppuccin Mocha contribution sparkline" />
+  <img align="top" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JBecera&theme=Dracula&hide_border=true" alt="JBecera's Catppuccin Mocha GitHub streak" />
 </p>
 <p align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=JBecera&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&area_color=cba6f7&title_color=89b4fa&hide_border=true" alt="JBecera's Catppuccin Mocha GitHub activity graph" />
@@ -77,5 +77,3 @@ Gmail
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=CBA6F7&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!;Building+full-stack+projects+one+repo+at+a+time;Ship+something+useful." alt="Catppuccin Mocha animated typing message" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,45:cba6f7,100:89b4fa&height=120&section=footer&animation=twinkling" alt="Catppuccin Mocha animated wave footer" />
-
-This is my readme for GitHub, But I want a different format and style that is much better than this
