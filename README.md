@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="./sample.png" alt="This is a picture" width="50%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=200&section=header&text=Jian%20Becera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=4th%20Year%20BS%20Information%20Technology%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18&descColor=ffffff" alt="Header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+projects+one+repo+at+a+time;Web+%7C+Backend+%7C+Mobile+%7C+Databases;Still+figuring+it+out" alt="Typing SVG" />
+  </a>
 </div>
 <br/>
 <h1 align="center">Hey there, I'm Jian Brenz Becera 👋</h1>
 <p align="center">
-  I like solving real-world problems that matter by writing code.
+  I like solving real world problems that matter by writing code.
   <br/>
   I build full-stack using Spring Boot and Kotlin on the back, React on the front.
 </p>
@@ -24,7 +28,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🛠️ Things I Love Making</h3>
+      <h3>What I Like Building</h3>
       <ul>
         <li>Full-stack web apps with React, Node.js, Django, and Spring Boot</li>
         <li>Android apps in Kotlin and Java</li>
@@ -33,7 +37,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>🚀Open For</h3>
+      <h3>Open To</h3>
       <ul>
         <li>Internships and entry-level roles in software development</li>
         <li>Teaming up with fellow student devs</li>
@@ -55,7 +59,7 @@
 
 <h2 align="center">GitHub Snapshot</h2>
 <p align="center">
-  <img align="top" width="49%" src="https://ghstats.dev/api/card?username=JBecera&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night GitHub stats" />
+  <img align="top" width="49%" src="https://ghstats.dev/api/card?username=JBecera&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night GitHub stats" /> <bbr/>
   <img align="top" width="49%" src="https://ghstats.dev/api/langs?username=JBecera&hide_border=true&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night language stats" />
 </p>
 
