@@ -4,9 +4,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+projects+one+repo+at+a+time;Web+%7C+Backend+%7C+Mobile+%7C+Databases;Still+figuring+it+out" alt="Typing SVG" />
   </a>
-  I like solving real world problems that matter by writing code.
 </div>
 <p align="center">
+  I like solving real world problems that matter by writing code.
   <a href="https://www.linkedin.com/in/becerajian/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1A1B26" alt="LinkedIn" />
   </a>
