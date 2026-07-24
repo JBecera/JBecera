@@ -53,7 +53,7 @@
 
 <h2 align="center">GitHub Snapshot</h2>
 <p align="center">
-  <img align="top" width="49%" src="https://ghstats.dev/api/card?username=JBecera&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night GitHub stats" /> <bbr/>
+  <img align="top" width="70%" src="https://ghstats.dev/api/card?username=JBecera&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1a1b26&text=a9b1d6&title_color=7aa2f7&icon_color=bb9af7&border_color=24283b" alt="JBecera's Tokyo Night GitHub stats" /> <bbr/>
 </p>
 
 ---
