@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=200&section=header&text=Jian%20Becera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=4th%20Year%20BS%20Information%20Technology%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18&descColor=ffffff)
-
 <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=200&section=header&text=Jian%20Becera&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=4th%20Year%20BS%20Information%20Technology%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18&descColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+projects+one+repo+at+a+time;Web+%7C+Backend+%7C+Mobile+%7C+Databases;Still+figuring+it+out)](https://git.io/typing-svg)
 
