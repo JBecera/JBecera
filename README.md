@@ -28,7 +28,7 @@
       <ul>
         <li>Full-stack web apps with React, Node.js, Django, and Spring Boot</li>
         <li>Android apps in Kotlin and Java</li>
-        <li>Database— MySQL, PostgreSQL, SQLite, Supabase</li>
+        <li>Database - MySQL, PostgreSQL, SQLite, Supabase</li>
         <li>Projects built to actually work, not just survive the demo</li>
       </ul>
     </td>
@@ -63,12 +63,12 @@
 
 <h2 align="center">Let's Connect</h2>
 <p align="center">
-  Always happy to talk projects, web dev, or a good idea that deserves to exist
+  Always happy to talk projects, web dev, or a good idea that deserves to exist.
   <br />
   <a href="mailto:jianbrenzcaridobecera@gmail.com"><strong>jianbrenzcaridobecera@gmail.com</strong></a>
 </p>
 <p align="center">
-  <sub>Thanks for stopping by — go build something fun, then ship it before you overthink it.</sub>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+projects+one+repo+at+a+time;Web+%7C+Backend+%7C+Mobile+%7C+Databases;Still+figuring+it+out)](https://git.io/typing-svg)
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Turning+coffee+into+commits+since+day+one;Build+fun+things.+Ship+them.+Repeat." alt="Tokyo Night animated typing message" />
